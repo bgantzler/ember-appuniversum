@@ -10,5 +10,11 @@
     "name": "development",
     "sha": "3ddecca1d7246e52094e0d15a13955e2ff1b3fa0",
     "tag": null
+  },
+  "master": {
+    "path": "versions/master",
+    "name": "master",
+    "sha": "6ab1146bc5fac5dd9bc8a4273095a347dee22d90",
+    "tag": null
   }
 }
