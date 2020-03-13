@@ -4,5 +4,11 @@
     "name": "v0.0.5",
     "sha": "86fe05e6823dd4cd18a33427fbc7f6853d1f4cc1",
     "tag": "v0.0.5"
+  },
+  "master": {
+    "path": "versions/master",
+    "name": "master",
+    "sha": "d8986967a2f7391ee83cc30122da0c0efb600285",
+    "tag": null
   }
 }
