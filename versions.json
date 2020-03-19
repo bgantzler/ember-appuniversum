@@ -20,13 +20,19 @@
   "-latest": {
     "path": "",
     "name": "Latest",
-    "sha": "426d8865bad0f3783ca7f690a0a16d430193b028",
-    "tag": "v0.0.7"
+    "sha": "4f5f036e5f75121e82117e463446bdb0525a069d",
+    "tag": "v0.0.8"
   },
   "v0.0.7": {
     "path": "versions/v0.0.7",
     "name": "v0.0.7",
     "sha": "426d8865bad0f3783ca7f690a0a16d430193b028",
     "tag": "v0.0.7"
+  },
+  "v0.0.8": {
+    "path": "versions/v0.0.8",
+    "name": "v0.0.8",
+    "sha": "4f5f036e5f75121e82117e463446bdb0525a069d",
+    "tag": "v0.0.8"
   }
 }
