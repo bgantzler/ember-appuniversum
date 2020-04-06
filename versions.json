@@ -40,5 +40,11 @@
     "name": "v0.0.11",
     "sha": "f129cb6c79e8ab2ddb065b3eff61833dd59d5e03",
     "tag": "v0.0.11"
+  },
+  "feature/svg-icons": {
+    "path": "versions/feature/svg-icons",
+    "name": "feature/svg-icons",
+    "sha": "8db75bf128b4d60950d06f514a0c34b7d36b9b27",
+    "tag": null
   }
 }
