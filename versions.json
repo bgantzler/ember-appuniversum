@@ -5,12 +5,6 @@
     "sha": "86fe05e6823dd4cd18a33427fbc7f6853d1f4cc1",
     "tag": "v0.0.5"
   },
-  "master": {
-    "path": "versions/master",
-    "name": "master",
-    "sha": "1ef1e9281d73267014f62ad4c6445fb4be757f9f",
-    "tag": null
-  },
   "v0.0.6": {
     "path": "versions/v0.0.6",
     "name": "v0.0.6",
@@ -40,11 +34,5 @@
     "name": "v0.0.11",
     "sha": "f129cb6c79e8ab2ddb065b3eff61833dd59d5e03",
     "tag": "v0.0.11"
-  },
-  "feature/svg-icons": {
-    "path": "versions/feature/svg-icons",
-    "name": "feature/svg-icons",
-    "sha": "f74e7e341cd4248318fccf5cad466fd19320b262",
-    "tag": null
   }
 }
